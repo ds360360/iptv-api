@@ -15,3 +15,11 @@ https://ghproxy.cc/https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv
 https://ghproxy.cc/https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv4.txt
 https://ghproxy.cc/https://raw.githubusercontent.com/YueChan/Live/main/APTV.m3u
 https://ghproxy.cc/https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u
+http://211.101.234.24:866/aishang.txt
+https://ghproxy.1888866.xyz/raw.githubusercontent.com/joevess/IPTV/main/home.m3u8
+https://aktv.top/live.txt
+http://175.178.251.183:6689/live.txt
+https://m3u.ibert.me/txt/fmml_dv6.txt
+https://m3u.ibert.me/txt/o_cn.txt
+https://m3u.ibert.me/txt/j_iptv.txt
+https://live.zbds.top/tv/iptv4.txt
