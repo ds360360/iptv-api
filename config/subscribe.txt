@@ -26,3 +26,4 @@ https://m3u.ibert.me/txt/o_cn.txt
 https://m3u.ibert.me/txt/j_iptv.txt
 https://aktv.top/live.txt
 http://175.178.251.183:6689/live.txt
+http://rihou.cc:55/lib/kx2024.txt
