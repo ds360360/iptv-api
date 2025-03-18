@@ -24,3 +24,5 @@ https://live.iptv365.org/live.txt
 http://ttkx.cc:55/lib/kx2024.txt
 https://11214.kstore.space/zb.txt
 https://13395.kstore.space/%E9%85%B79.txt
+http://so.owo.vin/cctv
+http://so.owo.vin/卫视
