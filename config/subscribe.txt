@@ -26,3 +26,6 @@ https://11214.kstore.space/zb.txt
 https://13395.kstore.space/%E9%85%B79.txt
 http://so.owo.vin/cctv
 http://so.owo.vin/卫视
+http://45.204.212.72:8000/
+http://27.19.183.225:9050/
+http://180.165.218.110:7777/
