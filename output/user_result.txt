@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-04-14 18:36:19,http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226895/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EI0Rkc6neBYgfpoJ1yud8Fw%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPpqgHe3PQ5GNQoO-yUgA8C%2CEND
+2025-04-15 06:33:04,http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226895/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EI0Rkc6neBYgfpoJ1yud8Fw%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPpqgHe3PQ5GNQoO-yUgA8C%2CEND
 
 📺央视卫视,#genre#
 CCTV-1,http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226895/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EI0Rkc6neBYgfpoJ1yud8Fw%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPpqgHe3PQ5GNQoO-yUgA8C%2CEND
@@ -783,13 +783,13 @@ CCTV-17,http://[2409:8087:5e01:34::22]:6610/ZTE_CMS/0000000100000006000000000000
 内蒙古卫视,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221227018/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7ErN_hoRDwApMKnJqiNHvn9w%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 内蒙古卫视,http://tvbox6.com/tv/bfgd.php?id=110
 内蒙古卫视,http://iptv.huuc.edu.cn/hls/nmtv.m3u8
-内蒙古卫视,http://satellitepull.cnr.cn/live/wx32nmgws/playlist.m3u8
 内蒙古卫视,http://139.196.214.238/rtp/239.45.1.238:5140
+内蒙古卫视,http://139.129.231.228:50060/rtp/239.21.1.41:5002
 内蒙古卫视,http://139.196.151.191:2051/rtp/239.45.1.238:5140
+内蒙古卫视,http://satellitepull.cnr.cn/live/wx32nmgws/playlist.m3u8
 内蒙古卫视,https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
 内蒙古卫视,http://api2.52tb.xyz/info?id=146&token=20230218zdxlqr
 内蒙古卫视,http://api3.52tb.xyz/info?id=44&token=20230402fxrjwi#rtsp://60.13.39.18/PLTV/88888910/224/3221225561/10000100000000060000000000107341_0.smil
-内蒙古卫视,rtsp://180.95.143.19/PLTV/88888910/224/3221225561/10000100000000060000000000107341_0.smil
 宁夏卫视,http://[2409:8087:1:20:20::26]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226528/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E9-jWxE6tfiz7aO7MvbCY7Q%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNMi3qn27U9rBeXpVrJ8eLy7%2CEND
 宁夏卫视,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/8/3221226454/index.m3u8
 宁夏卫视,http://[2409:8087:1a0a:df::404b]/ottrrs.hl.chinamobile.com/TVOD/88888888/8/3221226454/index.m3u8
@@ -940,6 +940,7 @@ CCTV-17,http://[2409:8087:5e01:34::22]:6610/ZTE_CMS/0000000100000006000000000000
 三沙卫视,https://live3.hnntv.cn/srs/tv/ssws.m3u8
 三沙卫视,https://livessws.hnntv.cn/live/ssws20250114.m3u8?_upt=59ccdc261738935307
 三沙卫视,http://139.196.214.238/rtp/239.45.1.82:5140
+三沙卫视,http://139.129.231.228:50060/rtp/239.21.2.9:5002
 三沙卫视,http://139.196.151.191:2051/rtp/239.45.1.82:5140
 三沙卫视,http://36.105.100.208:35455/itv/5000000011000288016.m3u8?cdn=bestzb
 三沙卫视,rtsp://118.212.169.207:554/PLTV/88888888/224/3221227300/10000100000000060000000001945824_0.smil
@@ -948,7 +949,6 @@ CCTV-17,http://[2409:8087:5e01:34::22]:6610/ZTE_CMS/0000000100000006000000000000
 三沙卫视,rtsp://115.153.240.228:554/PLTV/88888888/224/3221226984/85722645.smil
 三沙卫视,rtsp://115.153.212.72/PLTV/88888888/224/3221226984/85722645.smil
 三沙卫视,rtsp://115.153.233.154/PLTV/88888888/224/3221226984/85722645.smil
-三沙卫视,rtsp://115.153.247.80/PLTV/88888888/224/3221226984/85722645.smil
 天津卫视,http://yc.myds.me:35455/itv/1000000005000265026.m3u8?cdn=ystenlive
 天津卫视,http://[2409:8087:1a01:df::4030]:80/TVOD/88888888/224/3221225972/main.m3u8
 天津卫视,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221226459/index.m3u8
@@ -982,13 +982,13 @@ CCTV-17,http://[2409:8087:5e01:34::22]:6610/ZTE_CMS/0000000100000006000000000000
 西藏卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226433/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225638/index.m3u8
 西藏卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226212/1.m3u8
 西藏卫视,http://iptv.huuc.edu.cn/hls/xztv.m3u8
+西藏卫视,http://139.129.231.228:50060/rtp/239.21.1.46:5002
 西藏卫视,http://satellitepull.cnr.cn/live/wxxzws/playlist.m3u8
 西藏卫视,http://36.105.100.208:35455/itv/6603041244077933770.m3u8?cdn=ystenlive
 西藏卫视,http://api2.52tb.xyz/info?id=52&token=20230326xflvzc
 西藏卫视,rtsp://180.95.143.19/PLTV/88888910/224/3221225560/10000100000000060000000000107340_0.smil
 西藏卫视,rtsp://116.176.26.18/PLTV/88888910/224/3221225560/10000100000000060000000000107340_0.smil
 西藏卫视,rtsp://116.176.26.19/PLTV/88888910/224/3221225560/10000100000000060000000000107340_0.smil
-西藏卫视,rtsp://118.212.169.207:554/PLTV/88888888/224/3221227054/10000100000000060000000000571278_0.smil
 新疆卫视,http://[2409:8087:1:20:20::26]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226546/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7ETtoZKRqwsL9SQjr1A0iH5g%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNMREPnBLSH3b8pR7cnmo9am%2CEND
 新疆卫视,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226460/index.m3u8
 新疆卫视,http://[2409:8087:1a0a:df::404b]/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225635/index.m3u8
@@ -1005,10 +1005,10 @@ CCTV-17,http://[2409:8087:5e01:34::22]:6610/ZTE_CMS/0000000100000006000000000000
 新疆卫视,http://tvbox6.com/tv/bfgd.php?id=150
 新疆卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225635/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226460/index.m3u8
 新疆卫视,http://iptv.huuc.edu.cn/hls/xjtv.m3u8
-新疆卫视,http://satellitepull.cnr.cn/live/wxxjws/playlist.m3u8
+新疆卫视,http://139.129.231.228:50060/rtp/239.21.1.45:5002
 新疆卫视,http://139.196.151.191:2051/rtp/239.45.1.116:5140
+新疆卫视,http://satellitepull.cnr.cn/live/wxxjws/playlist.m3u8
 新疆卫视,http://36.105.100.208:35455/itv/1000000002000029441.m3u8?cdn=ystenlive
-新疆卫视,http://api2.52tb.xyz/info?id=51&token=20230326xflvzc
 云南卫视,http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226543/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EzQy9f4DIExLCs810r0Q6Kw%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNO_hnHaWpTsMQwR98VJGduo%2CEND
 云南卫视,http://yc.myds.me:35455/itv/5000000011000031120.m3u8?cdn=bestzb
 云南卫视,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226444/index.m3u8
@@ -1042,6 +1042,7 @@ CCTV-17,http://[2409:8087:5e01:34::22]:6610/ZTE_CMS/0000000100000006000000000000
 凤凰中文,http://php.17186.eu.org/phtv/fhzw.m3u8
 凤凰中文,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226248/index.m3u8
 凤凰中文,http://[2409:8087:2001:20:2800:0:df6e:eb24]:80/wh7f454c46tw3553140416_-2021535160/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
+凤凰中文,http://120.55.49.231:3095/rtp/233.50.200.191:5140
 鹿邑新闻,http://tvpull.dxhmt.cn:9081/tv/11628-1.m3u8
 超级综艺,http://[2409:8087:1:20:20::26]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226231/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Ejm-KqHfTZezbm9C-325YiA%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNNnfpAUC20DSCXUyGpDggnK%2CEND
 超级综艺,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225714/index.m3u8
@@ -1050,6 +1051,7 @@ CCTV-17,http://[2409:8087:5e01:34::22]:6610/ZTE_CMS/0000000100000006000000000000
 金牌综艺,http://yc.myds.me:35455/itv/1000000004000026167.m3u8?cdn=ystenlive
 北京影视,http://[2409:8087:1:20:20::2a]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226433/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EygquRbh9L0wUPRY53fsZWw%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNO62IynDcU1yYDL1b4Xte8T%2CEND
 北京影视,http://iptv.huuc.edu.cn/hls/btv4hd.m3u8
+北京影视,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s4/index.m3u8?time=1744448410&sign=31ed82a826b2d846afc13c38df41d714
 北京IPTV淘电影,http://[2409:8087:1:20:20::27]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226552/1.m3u8?accountinfo=%7E%7EV2.0%7EXOsrWMA-UCdUl1hQSR9EKw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND&GuardEncType=2
 超级电视剧,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226979/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EVGh4wVrIL86YabiEzt0u5Q%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 超级电影,http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226233/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EfPRR4mbRWhkCFuUCVm9THg%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNM4kysjLk_woYMRnu35KtBV%2CEND
