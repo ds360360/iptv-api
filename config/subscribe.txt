@@ -24,8 +24,6 @@ https://live.iptv365.org/live.txt
 http://home.jundie.top:81/Cat/tv/live.txt
 https://gitee.com/koukou890/video/raw/master/rk_live
 http://aktv.space/live.m3u
-http://so.owo.vin/cctv
-http://so.owo.vin/卫视
 https://tv.iill.top/m3u/Gather
 http://180.165.218.110:7777/
 http://www.cunbar.com:34567/
