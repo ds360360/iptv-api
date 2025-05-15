@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-05-15 06:25:14,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
+2025-05-15 18:33:27,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
 
 📺央视卫视,#genre#
 CCTV-1,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
@@ -514,7 +514,6 @@ CCTV-17,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888
 云南卫视,http://[2409:8087:74f0:22::7]:6410/270000001128/9900000035/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000035
 云南卫视,http://dsj.motem.top:8880/bptv/10000100000000050000000003887453.m3u8
 云南卫视,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226444/index.m3u8
-凤凰卫视,http://cdn.132.us.kg/live/fhzw/stream.m3u8
 凤凰卫视,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 凤凰卫视,http://php.jdshipin.com:8880/smt.php?id=phoenixtv_hd
 凤凰卫视,https://smart.pendy.dpdns.org/Smart.php?id=phoenixtv_hd
@@ -538,21 +537,21 @@ CCTV-17,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888
 河南新闻,http://156.238.253.62:5555/tvbox/公众号好享生活小助手/河南.php?id=hnxw
 河南新闻,http://1.94.31.214/php/hntv.php?id=hnxw
 河南新闻,http://nctv.top/IDOEPpiryt/hntv.php?id=hnxw
+河南乡村,http://nctv.top/IDOEPpiryt/hntv.php?id=hnxc
 河南乡村,http://156.238.253.62:5555/tvbox/公众号好享生活小助手/河南.php?id=hnxc
 河南乡村,http://1.94.31.214/php/hntv.php?id=hnxc
 河南乡村,http://xn--z6ut02b.xn--qoqw77q.top/iptv.php?id=hnxc
-河南乡村,http://nctv.top/IDOEPpiryt/hntv.php?id=hnxc
-河南法治,http://156.238.253.62:5555/tvbox/公众号好享生活小助手/河南.php?id=hmfz
-河南法治,http://xn--z6ut02b.xn--qoqw77q.top/iptv.php?id=hmfz
 河南法治,http://nctv.top/IDOEPpiryt/hntv.php?id=hmfz
+河南法治,http://xn--z6ut02b.xn--qoqw77q.top/iptv.php?id=hmfz
+河南法治,http://156.238.253.62:5555/tvbox/公众号好享生活小助手/河南.php?id=hmfz
 河南公共,http://156.238.253.62:5555/tvbox/公众号好享生活小助手/河南.php?id=hngg
 河南公共,http://xn--z6ut02b.xn--qoqw77q.top/iptv.php?id=hngg
 河南公共,http://nctv.top/IDOEPpiryt/hntv.php?id=hngg
 河南公共,http://1.94.31.214/php/hntv.php?id=hngg
 河南电视剧,http://xn--z6ut02b.xn--qoqw77q.top/iptv.php?id=hndsj
-河南电视剧,http://nctv.top/IDOEPpiryt/hntv.php?id=hndsj
 河南电视剧,http://1.94.31.214/php/hntv.php?id=hndsj
 河南电视剧,http://156.238.253.62:5555/tvbox/公众号好享生活小助手/河南.php?id=hndsj
+河南电视剧,http://nctv.top/IDOEPpiryt/hntv.php?id=hndsj
 周口新闻综合,http://nctv.top/IDOEPpiryt/hntv.php?id=zk1
 超级综艺,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225714/index.m3u8
 超级综艺,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225714/index.m3u8
@@ -588,6 +587,8 @@ CCTV-17,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888
 古装剧场,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226323/1.m3u8?
 欢乐剧场,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225742/index.m3u8
 欢乐剧场,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225742
+欢乐剧场,http://itv.iptv1688.top:2016/itv.php?id=欢乐剧场
 爱情喜剧,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225669/index.m3u8
 爱情喜剧,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225669
+爱情喜剧,http://itv.iptv1688.top:2016/itv.php?id=爱情喜剧
 潮妈辣婆,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226286/1.m3u8?
