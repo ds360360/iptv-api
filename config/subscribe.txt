@@ -44,3 +44,8 @@ https://nptv.freetv.top/juhe.m3u
 https://gitee.com/mytv-android/iptv-api/raw/master/output/result.txt
 https://live.izbds.com/tv/iptv4.txt
 http://www.wzxjz.cn:8011/txt
+http://kkk.888.3116598.xyz/user/HKTV.txt
+http://rihou.cc:555/gggg.nzk
+https://aktv.space/live.m3u
+https://upld.zone.id/uploads/q9iq9e5iq/lvse.txt
+http://gg.7749.org//i/ds.txt
