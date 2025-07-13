@@ -526,8 +526,6 @@ http://z.b.bkpcp.top/m.php?id=cctv13
 #EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV13.png",CCTV-13
 http://j.x.bkpcp.top/jx/CCTV13HD
 #EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV13.png",CCTV-13
-http://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8
-#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV13.png",CCTV-13
 http://jwplay.hebyun.com.cn/live/cctv13/1500k/tzwj_video.m3u8
 #EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV13.png",CCTV-13
 https://ldncctvwbcdcnc.v.wscdns.com/ldncctvwbcd/cdrmldcctv13_1/index.m3u8
@@ -559,6 +557,8 @@ http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/yinhe/88888888/224/32
 http://[2409:8087:5e01:34::22]:6610/ZTE_CMS/00000001000000060000000000000516/index.m3u8?IAS
 #EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV13.png",CCTV-13
 http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/00000001000000060000000000000516/index.m3u8?IAS
+#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV13.png",CCTV-13
+http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/00000001000000060000000000000516/index.m3u8?IAS
 #EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV14.png",CCTV-14
 http://[2409:8087:74f0:22::4]:6410/270000001128/9900000511/index.m3u8
 #EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV14.png",CCTV-14
@@ -760,8 +760,6 @@ http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221225824/index.m3u
 #EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/广东卫视.png",广东卫视
 http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227164/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
 #EXTINF:-1 tvg-name="香港卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/香港卫视.png",香港卫视
-http://cctvtxyh5c.liveplay.myqcloud.com/cstv/xianggangweishi_2/index.m3u8
-#EXTINF:-1 tvg-name="香港卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/香港卫视.png",香港卫视
 https://stream1.freetv.fun/xiang-gang-wei-shi-8.m3u8
 #EXTINF:-1 tvg-name="香港卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/香港卫视.png",香港卫视
 https://stream1.freetv.fun/79e4d77e2f29a2ca7f7cabbbe2ee02d32a4f2f7fb91ae94d0fb9573c9f94b4ab.ctv
@@ -782,13 +780,7 @@ https://stream1.freetv.fun/5335c88a9a7d8b74173b491f480d4f94e8d3bd596af54478106aa
 #EXTINF:-1 tvg-name="香港卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/香港卫视.png",香港卫视
 https://hls-gateway.vpstv.net/streams/708918.m3u8
 #EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/浙江卫视.png",浙江卫视
-http://zwebl02.cztv.com/live/channel011080P.m3u8?auth_key=2524708799-0-0-9a1229d8b9d311024ebea08c3fb1d63f
-#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/浙江卫视.png",浙江卫视
-http://zhfivel02.cztv.com/channel01/1080p.m3u8?auth_key=2524708799-0-0-adde67b1b344fdd5e512f30a4ae31915
-#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/浙江卫视.png",浙江卫视
 http://z.b.bkpcp.top/m.php?id=zjws
-#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/浙江卫视.png",浙江卫视
-https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 #EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/浙江卫视.png",浙江卫视
 http://goo.bkpcp.top/mg/zjws
 #EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/浙江卫视.png",浙江卫视
@@ -804,10 +796,6 @@ http://[2409:8087:5e08:24::12]:6610/200000001898/460000089800010070/1.m3u8
 #EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/浙江卫视.png",浙江卫视
 http://iptv.huuc.edu.cn/hls/zjhd.m3u8
 #EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/浙江卫视.png",浙江卫视
-http://ali-vl.cztv.com/channels/lantian/channel001/360p.m3u8
-#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/浙江卫视.png",浙江卫视
-http://ali-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8
-#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/浙江卫视.png",浙江卫视
 https://stream1.freetv.fun/2e3a01b886780ceca10b44bb6cdb57413757275a6fdcb083800db996bc2f81e3.m3u8
 #EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/浙江卫视.png",浙江卫视
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225703/index.m3u8
@@ -821,6 +809,16 @@ http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/
 http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226342/index.m3u8
 #EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/浙江卫视.png",浙江卫视
 http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221226339/index.m3u8
+#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/浙江卫视.png",浙江卫视
+http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221226339/index.m3u8
+#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/浙江卫视.png",浙江卫视
+http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226339/index.m3u8
+#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/浙江卫视.png",浙江卫视
+http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226342/index.m3u8
+#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/浙江卫视.png",浙江卫视
+http://[2409:8087:1a01:df::4043]:80/TVOD/88888888/224/3221225959/main.m3u8
+#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/浙江卫视.png",浙江卫视
+http://[2409:8087:2001:20:2800:0:df6e:eb10]:80/ott.mobaibox.com/PLTV/4/224/3221227491/index.m3u8
 #EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/湖南卫视.png",湖南卫视
 http://z.b.bkpcp.top/m.php?id=hunws
 #EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/湖南卫视.png",湖南卫视
@@ -1546,8 +1544,6 @@ http://z.b.bkpcp.top/m.php?id=nmws
 #EXTINF:-1 tvg-name="内蒙古卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/内蒙古卫视.png",内蒙古卫视
 http://j.x.bkpcp.top/jx/NMGWS
 #EXTINF:-1 tvg-name="内蒙古卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/内蒙古卫视.png",内蒙古卫视
-https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
-#EXTINF:-1 tvg-name="内蒙古卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/内蒙古卫视.png",内蒙古卫视
 http://goo.bkpcp.top/mg/nmws
 #EXTINF:-1 tvg-name="内蒙古卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/内蒙古卫视.png",内蒙古卫视
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225634/index.m3u8
@@ -1581,6 +1577,8 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225634/index.m3u8
 https://stream1.freetv.fun/953b5b877c309b3e9f1466390325d30b0de6a56ef65261d42328b7b64d9a9af5.m3u8
 #EXTINF:-1 tvg-name="内蒙古卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/内蒙古卫视.png",内蒙古卫视
 https://stream1.freetv.fun/325ee158a9026a625e36ada7cab8bf4606657903a9312e1c19a2af5e7a73d1b7.m3u8
+#EXTINF:-1 tvg-name="内蒙古卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/内蒙古卫视.png",内蒙古卫视
+https://stream1.freetv.fun/ad7314a16b55c53ae78c2117774a007d72a550e07646ad5c29347c06b01a6a39.m3u8
 #EXTINF:-1 tvg-name="宁夏卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/宁夏卫视.png",宁夏卫视
 http://z.b.bkpcp.top/m.php?id=nxws
 #EXTINF:-1 tvg-name="宁夏卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/宁夏卫视.png",宁夏卫视
@@ -2073,8 +2071,6 @@ http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 https://smart.pendy.dpdns.org/Smart.php?id=phoenixtv_hd
 #EXTINF:-1 tvg-name="凤凰卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰卫视.png",凤凰卫视
 http://live.catvod.com/smart.php?id=phoenixtv_hd
-#EXTINF:-1 tvg-name="凤凰卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰卫视.png",凤凰卫视
-http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰中文.png",凤凰中文
 http://www.terrykang.cn:5678/sxg.php?id=test1_4000
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰中文.png",凤凰中文
@@ -2121,6 +2117,8 @@ https://live.lalifeier.eu.org/hntv/ydxj.m3u8?t=1733713753&key=21100eae2803e05921
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226628/index.m3u8
 #EXTINF:-1 tvg-name="鹿邑新闻" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/鹿邑新闻.png",鹿邑新闻
 http://tvpull.dxhmt.cn:9081/tv/11628-1.m3u8
+#EXTINF:-1 tvg-name="鹿邑新闻" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/鹿邑新闻.png",鹿邑新闻
+http://tvpull.dxhmt.cn:9081/tv/11628-1.m3u8#http://live.dxhmt.cn:9081/tv/11628-1.m3u8
 #EXTINF:-1 tvg-name="河南新闻" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/河南新闻.png",河南新闻
 https://live.lalifeier.eu.org/hntv/hnxw.m3u8?t=1733713753&key=87a5e91e5e86bb566c71ececb7cd90f1
 #EXTINF:-1 tvg-name="河南新闻" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/河南新闻.png",河南新闻
@@ -2239,5 +2237,5 @@ http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221
 http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226286/1.m3u8
 #EXTINF:-1 tvg-name="潮妈辣婆" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/潮妈辣婆.png",潮妈辣婆
 http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226980/1.m3u8
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2025-07-13 06:28:18
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2025-07-13 18:41:08
 http://[2409:8087:74f0:22::4]:6610/270000001128/9900000501/index.m3u8
