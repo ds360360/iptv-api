@@ -38,18 +38,18 @@ CCTV-17,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000513/index.m3u8
 江苏卫视,http://z.b.bkpcp.top/m.php?id=jsws
 江西卫视,http://z.b.bkpcp.top/m.php?id=jxws
 辽宁卫视,http://z.b.bkpcp.top/m.php?id=lnws
-内蒙古卫视,http://z.b.bkpcp.top/m.php?id=nmws
-宁夏卫视,http://z.b.bkpcp.top/m.php?id=nxws
-青海卫视,http://z.b.bkpcp.top/m.php?id=qhws
+内蒙古卫视,http://j.x.bkpcp.top/jx/NMGWS
+宁夏卫视,http://j.x.bkpcp.top/jx/NXWS
+青海卫视,http://j.x.bkpcp.top/jx/QHWS
 山东卫视,http://z.b.bkpcp.top/m.php?id=sdws
 山西卫视,http://j.x.bkpcp.top/jx/SXWS
-陕西卫视,http://z.b.bkpcp.top/m.php?id=sxws
+陕西卫视,http://goo.bkpcp.top/mg/sxws
 四川卫视,http://z.b.bkpcp.top/m.php?id=scws
 深圳卫视,http://[2409:8087:74f0:22::5]:6410/270000001128/9900000529/index.m3u8
 三沙卫视,http://[2409:8087:5e00:24::1e]:6060/000000001000/4600001000000000117/1.m3u8
 天津卫视,http://j.x.bkpcp.top/jx/TIANJHD
-西藏卫视,http://z.b.bkpcp.top/m.php?id=xzws
-新疆卫视,http://z.b.bkpcp.top/m.php?id=xjws
+西藏卫视,http://goo.bkpcp.top/mg/xzws
+新疆卫视,http://j.x.bkpcp.top/jx/XJWS
 云南卫视,http://z.b.bkpcp.top/m.php?id=ynws
 凤凰卫视,http://cdn.132.us.kg/live/fhzw/stream.m3u8
 凤凰中文,http://www.terrykang.cn:5678/sxg.php?id=test1_4000
@@ -83,4 +83,4 @@ CCTV-17,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000513/index.m3u8
 古天乐,https://www.goodiptv.club/huya/11602041
 
 🕘️更新时间,#genre#
-2025-08-08 18:48:15,http://[2409:8087:74f0:22::4]:6610/270000001128/9900000501/index.m3u8
+2025-08-09 06:41:24,http://[2409:8087:74f0:22::4]:6610/270000001128/9900000501/index.m3u8
