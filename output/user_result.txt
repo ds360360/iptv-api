@@ -7,7 +7,6 @@ CCTV-2,http://58.19.180.108:9981/stream/channelid/980211261?profile=pass
 CCTV-2,http://223.167.245.215:8001/rtp/239.45.3.208:5140
 CCTV-2,http://180.165.1.43:9898/rtp/239.45.3.208:5140
 CCTV-2,http://goo.bkpcp.top/mg/CCTV2
-CCTV-3,http://zqh2333.top:2222/rtp/239.93.24.150:5140
 CCTV-3,http://58.19.180.108:9981/stream/channelid/188040143?profile=pass
 CCTV-3,http://223.167.245.215:8001/rtp/239.45.1.68:5140
 CCTV-3,http://180.165.1.43:9898/rtp/239.45.1.68:5140
@@ -51,17 +50,20 @@ CCTV-14,http://180.165.1.43:9898/rtp/239.45.3.23:5140
 CCTV-14,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000511/index.m3u8
 CCTV-15,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225641/index.m3u8
 CCTV-16,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000016/index.m3u8
+CCTV-17,http://p.ytelc.com/169l/0/cctv.php?id=cctv17
 CCTV-17,http://223.167.245.215:8001/rtp/239.45.3.52:5140
 CCTV-17,http://180.165.1.43:9898/rtp/239.45.3.52:5140
 CCTV-17,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000513/index.m3u8
 广东卫视,http://satellitepull.cnr.cn/live/wxgdws/playlist.m3u8
-广东卫视,http://180.165.1.43:9898/rtp/239.45.3.230:5140
 广东卫视,http://223.167.245.215:8001/rtp/239.45.3.230:5140
+广东卫视,http://180.165.1.43:9898/rtp/239.45.3.230:5140
+广东卫视,https://zby.130519.xyz/PLTV/11/224/3221225731/index.m3u8
 广东卫视,http://z.b.bkpcp.top/m.php?id=gdws
 香港卫视,https://stream1.freetv.fun/xiang-gang-wei-shi-8.m3u8
 浙江卫视,http://223.167.245.215:8001/rtp/239.45.3.178:5140
 浙江卫视,http://180.165.1.43:9898/rtp/239.45.3.178:5140
 浙江卫视,http://z.b.bkpcp.top/m.php?id=zjws
+湖南卫视,https://zby.130519.xyz/PLTV/11/224/3221225726/index.m3u8
 湖南卫视,http://223.167.245.215:8001/rtp/239.45.3.228:5140
 湖南卫视,http://180.165.1.43:9898/rtp/239.45.3.228:5140
 湖南卫视,http://z.b.bkpcp.top/m.php?id=hunws
@@ -77,8 +79,8 @@ CCTV-17,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000513/index.m3u8
 黑龙江卫视,http://180.165.1.43:9898/rtp/239.45.3.232:5140
 黑龙江卫视,http://j.x.bkpcp.top/jx/HEILJHD
 安徽卫视,https://zby.130519.xyz/PLTV/11/224/3221225739/index.m3u8
-安徽卫视,http://satellitepull.cnr.cn/live/wxahws/playlist.m3u8
 安徽卫视,http://203.205.191.53/live.ahsx.ahtv.cn/live/ahwssx.m3u8
+安徽卫视,http://satellitepull.cnr.cn/live/wxahws/playlist.m3u8
 安徽卫视,http://223.167.245.215:8001/rtp/239.45.1.120:5140
 安徽卫视,http://180.165.1.43:9898/rtp/239.45.1.120:5140
 安徽卫视,http://j.x.bkpcp.top/jx/ANHUIHD
@@ -93,6 +95,7 @@ CCTV-17,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000513/index.m3u8
 东南卫视,http://180.165.1.43:9898/rtp/239.45.1.121:5140
 东南卫视,http://z.b.bkpcp.top/m.php?id=dnws
 甘肃卫视,http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
+广西卫视,http://222.169.85.8:9901/tsfile/live/0113_1.m3u8?key=txiptv
 广西卫视,http://223.167.245.215:8001/rtp/239.45.0.5:5140
 广西卫视,http://180.165.1.43:9898/rtp/239.45.0.5:5140
 广西卫视,http://z.b.bkpcp.top/m.php?id=gxws
@@ -108,12 +111,10 @@ CCTV-17,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000513/index.m3u8
 海南卫视,http://z.b.bkpcp.top/m.php?id=hinws
 河北卫视,http://satellitepull.cnr.cn/live/wxhebws/playlist.m3u8
 河北卫视,http://223.167.245.215:8001/rtp/239.45.1.44:5140
-河北卫视,http://180.165.1.43:9898/rtp/239.45.1.44:5140
 河北卫视,http://z.b.bkpcp.top/m.php?id=hbws
 河南卫视,https://zby.130519.xyz/PLTV/11/224/3221226132/index.m3u8
-河南卫视,http://150.158.10.195:80/dxxw.php
 河南卫视,http://xxwx.yoesun.com/xxw/河南网.php?id=hnws
-河南卫视,http://180.165.6.184:4022/rtp/239.45.0.3:5140
+河南卫视,http://150.158.10.195:80/dxxw.php
 河南卫视,http://180.165.12.90:4022/rtp/239.45.0.3:5140
 河南卫视,http://223.167.245.215:8001/rtp/239.45.0.3:5140
 河南卫视,http://180.165.1.43:9898/rtp/239.45.0.3:5140
@@ -143,7 +144,6 @@ CCTV-17,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000513/index.m3u8
 山西卫视,http://satellitepull.cnr.cn/live/wxssxws/playlist.m3u8
 山西卫视,http://j.x.bkpcp.top/jx/SXWS
 陕西卫视,http://goo.bkpcp.top/mg/sxws
-四川卫视,http://180.165.1.43:9898/rtp/239.45.1.83:5140
 四川卫视,http://z.b.bkpcp.top/m.php?id=scws
 深圳卫视,http://satellitepull.cnr.cn/live/wxszws/playlist.m3u8
 深圳卫视,http://180.165.1.43:9898/rtp/239.45.3.231:5140
@@ -197,4 +197,4 @@ CCTV-17,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000513/index.m3u8
 古天乐,https://www.goodiptv.club/huya/11602041
 
 🕘️更新时间,#genre#
-2025-09-19 18:24:24,http://58.19.180.108:9981/stream/channelid/1198995092?profile=pass
+2025-09-20 06:22:39,http://58.19.180.108:9981/stream/channelid/1198995092?profile=pass
