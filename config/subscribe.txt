@@ -46,7 +46,5 @@ http://gg.7749.org//i/ds.txt
 https://4key.cn/FP
 http://ox.my.to/8/4056864.txt
 https://pastebin.com/raw/C5AGtaKt
-https://sub.ottiptv.cc/bililive.m3u
-https://sub.ottiptv.cc/yylunbo.m3u
-https://fy.188766.xyz/?ip=&haiwai=true
+https://fy.188766.xyz/?ip=&json=true
 https://sub.ottiptv.cc/huyayqk.m3u
