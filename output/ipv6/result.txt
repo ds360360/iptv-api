@@ -33,7 +33,7 @@ CCTV-17,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225765
 贵州卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226474
 海南卫视,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010083
 河北卫视,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010101
-河南卫视,http://tvpull.dxhmt.cn:9081/tv/11425-1.m3u8#http://1.94.31.214/php/hntv.php?id=hnws
+河南卫视,http://tvpull.dxhmt.cn:9081/tv/11425-1.m3u8
 吉林卫视,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010075
 江苏卫视,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010059
 江西卫视,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010060
@@ -78,4 +78,4 @@ CCTV-17,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225765
 古天乐,https://www.goodiptv.club/huya/11602041
 
 🕘️更新时间,#genre#
-2025-10-24 06:23:56,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33
+2025-10-24 18:45:16,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33
