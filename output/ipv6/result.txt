@@ -1,8 +1,8 @@
-,#genre#
-CCTV-1,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33
+国军随缘更新,#genre#
+CCTV-1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 CCTV-2,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225588
 CCTV-3,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226021
-CCTV-4,http://php.jdshipin.com:8880/bst2.php?id=cctv4k/15000000
+CCTV-4,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226428
 CCTV-5,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226019
 CCTV-5+,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225603
 CCTV-6,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226010
@@ -13,12 +13,12 @@ CCTV-10,http://z.b.bkpcp.top/m.php?id=CCTV-10科教科教
 CCTV-11,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226565
 CCTV-12,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225731
 CCTV-13,https://event.pull.hebtv.com/jishi/cp1.m3u8
-CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8#rtsp://103.251.96.71/PLTV/88888888/224/3221225783/10000100000000060000000000726027_0.smil?icpid=SSPID&amp;accounttype=1&amp;limitflux=-1&amp;limitdur=-1&amp;accountinfo=:20240213104135
-CCTV-15,https://cc06.tv12.xyz/16.m3u8
-CCTV-16,http://php.jdshipin.com:8880/bst2.php?id=cctv16hd4k/15000000
+CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8#rtsp://103.251.96.71/PLTV/88888888/224/3221225783/10000100000000060000000000726027_0.smil?icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=:20240213104135
+CCTV-15,https://zby.130519.xyz/PLTV/11/224/3221226147/index.m3u8
+CCTV-16,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226100
 CCTV-17,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225765
 广东卫视,http://php.jdshipin.com:8880/TVOD/gsyd.php?id=9900000520
-香港卫视,https://stream1.freetv.fun/5335c88a9a7d8b74173b491f480d4f94e8d3bd596af54478106aa2399e6c7917.m3u8
+香港卫视,https://stream1.freetv.fun/5335c88a9a7d8b74173b491f480d4f94e8d3bd596af54478106aa2399e6c7917.ctv
 浙江卫视,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010070
 湖南卫视,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010058
 北京卫视,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010143
@@ -46,24 +46,26 @@ CCTV-17,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225765
 陕西卫视,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010113
 四川卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226338
 深圳卫视,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010068
-三沙卫视,https://stream1.freetv.fun/8bd6b69c423ac31e71c2311ad33f4f291e1314c69005ffb7b3b7defc2944adb2.m3u8
+三沙卫视,https://migu.188766.xyz/?migutoken=2f8d15ef18dc5c6e9268af6a0ac292fa&id=hn_ssws&type=sz
 天津卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226459
 西藏卫视,http://www.lysvc.cc/daili/xztv.php?id=0
 新疆卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225635
 云南卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226444
-凤凰卫视,http://php.jdshipin.com:8880/smt.php?id=phoenixtv_hd
-凤凰中文,http://php.jdshipin.com:8880/smt.php?id=phoenixtv_hd
-河南移动戏曲,https://migu.188766.xyz/?migutoken=c3d7753d55eacd84cc3d7d194c2e00db&id=%E7%A7%BB%E5%8A%A8%E6%88%8F%E6%9B%B2%E9%A2%91%E9%81%93&type=yy
+凤凰卫视,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
+凤凰中文,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
+河南移动戏曲,https://migu.188766.xyz/?migutoken=f94a2fd1e5a578abecd836f0f48f6339&id=%E7%A7%BB%E5%8A%A8%E6%88%8F%E6%9B%B2%E9%A2%91%E9%81%93&type=yy
 河南睛彩中原,https://migu.188766.xyz/?migutoken=db0996fc4bbe266ac47b3d3980d639a0&id=%E7%9D%9B%E5%BD%A9%E4%B8%AD%E5%8E%9F&type=yy
-鹿邑新闻,http://tvpull.dxhmt.cn:9081/tv/11628-1.m3u8?zhend//live.dxhmt.cn:9080/live/yshnpre.m3u8
-河南新闻,https://migu.188766.xyz/?migutoken=8c114ae9ce82d76c16f9b94aac3001ec&id=%E6%96%B0%E9%97%BB%E9%A2%91%E9%81%93&type=yy
-河南乡村,http://tvcdn.stream3.hndt.com/tv/65b8302b017e100019dc540f00000000_transios/playlist.m3u8?wsSecret=13258234cedc6089d541cf3074bf6982&wsTime=1760500809
-河南法治,https://migu.188766.xyz/?migutoken=8b43eaf68ff4548f08d281438dce310c&id=%E6%B3%95%E6%B2%BB%E9%A2%91%E9%81%93&type=yy
-河南公共,https://migu.188766.xyz/?migutoken=14bbe3425ec8769e6869375530ee7cf5&id=%E5%85%AC%E5%85%B1%E9%A2%91%E9%81%93&type=yy
-河南电视剧,https://migu.188766.xyz/?migutoken=73fcca6e928e5566cb28d4ff247adadb&id=%E7%94%B5%E8%A7%86%E5%89%A7%E9%A2%91%E9%81%93&type=yy
+鹿邑新闻,http://tvpull.dxhmt.cn:9081/tv/11628-1.m3u8?zhend
+河南新闻,https://migu.188766.xyz/?migutoken=5a543be724120e82ee589490bf95c029&id=%E6%96%B0%E9%97%BB%E9%A2%91%E9%81%93&type=yy
+河南乡村,http://tvcdn.stream3.hndt.com/tv/65b8302b017e100019dc540f00000000_transios/playlist.m3u8?wsSecret=ba30d493fdede04ce10a6fee59e5395f&wsTime=1762401615
+河南法治,https://migu.188766.xyz/?migutoken=e69f30478de98e20c5ff50fa9d8aa23e&id=%E6%B3%95%E6%B2%BB%E9%A2%91%E9%81%93&type=yy
+河南公共,https://migu.188766.xyz/?migutoken=077cc91c8057beabcf1a245e43eb9075&id=%E5%85%AC%E5%85%B1%E9%A2%91%E9%81%93&type=yy
+河南电视剧,https://migu.188766.xyz/?migutoken=d53b4049fb61a6fa1191c0b1689f8f74&id=%E7%94%B5%E8%A7%86%E5%89%A7%E9%A2%91%E9%81%93&type=yy
 周口新闻综合,https://stream1.freetv.fun/zhou-kou-xin-wen-zong-he-1.m3u8
+周口公共,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226626/index.m3u8
+周口教育,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226636/index.m3u8
 超级综艺,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225714/index.m3u8
-北京影视,https://migu.188766.xyz/?migutoken=d1cf6b99b71e520e3b2a6461d6293395&id=%E5%8C%97%E4%BA%AC%E5%BD%B1%E8%A7%86&type=yy
+北京影视,https://migu.188766.xyz/?migutoken=fc02fd50664bb632e1af9a6b45f6bb8a&id=%E5%8C%97%E4%BA%AC%E5%BD%B1%E8%A7%86&type=yy
 北京IPTV淘电影,http://[2409:8087:1:20:20::27]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226552/1.m3u8
 超级电视剧,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8
 超级电影,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
@@ -78,4 +80,4 @@ CCTV-17,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225765
 古天乐,https://www.goodiptv.club/huya/11602041
 
 🕘️更新时间,#genre#
-2025-11-06 06:20:47,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33
+2025-11-07 00:10:36,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
