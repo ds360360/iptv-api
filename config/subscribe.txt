@@ -15,3 +15,4 @@ https://sub.ottiptv.cc/huyayqk.m3u
 http://xo.html-5.me//i/9304793.txt
 https://www.iyouhun.com/tv/iptv.txt
 https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt
+https://gitee.com/mytv-android/iptv-api/raw/master/output/result.m3u
