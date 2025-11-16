@@ -17,3 +17,5 @@ https://www.iyouhun.com/tv/iptv.txt
 https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt
 https://gitee.com/mytv-android/iptv-api/raw/master/output/result.m3u
 https://wp.v6x8.com/down.php/ca4160bcb51180f75296ec2ec20b3601.txt
+http://tv.html-5.me/ii/276812.txt
+http://tv.html-5.me/ii/276604.txt
