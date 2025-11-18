@@ -19,3 +19,5 @@ https://gitee.com/mytv-android/iptv-api/raw/master/output/result.m3u
 https://wp.v6x8.com/down.php/ca4160bcb51180f75296ec2ec20b3601.txt
 http://tv.html-5.me/ii/276812.txt
 http://tv.html-5.me/ii/276604.txt
+http://2099.tv12.xyz/list.txt?pwd=907416
+https://bc.188766.xyz/?ip=&mima=mianfeibuhuaqian
