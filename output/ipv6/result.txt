@@ -80,4 +80,4 @@ CCTV-17,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225765
 古天乐,https://www.goodiptv.club/huya/11602041
 
 🕘️更新时间,#genre#
-2025-11-20 18:32:08,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+2025-11-21 06:27:22,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
