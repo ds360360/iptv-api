@@ -73,11 +73,13 @@ CCTV-17,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225765
 欢乐剧场,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225742/index.m3u8
 潮妈辣婆,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225685/index.m3u8
 成龙,https://live.metshop.top/huya/11342386
+王晶,http://2099.tv12.xyz/456_1763936262109.m3u8
 周星驰,https://live.metshop.top/huya/11342412
 李连杰,https://live.metshop.top/huya/11342390
 刘德华,https://live.iill.top/huya/11342424
+周润发,http://2099.tv12.xyz/450_1763936262109.m3u8
 林正英,https://live.metshop.top/huya/11342421
 古天乐,https://www.goodiptv.club/huya/11602041
 
 🕘️更新时间,#genre#
-2025-11-23 18:26:44,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+2025-11-24 06:25:57,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
