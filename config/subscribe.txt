@@ -1,9 +1,35 @@
 # 这是订阅源列表，每行一个订阅地址
 # This is a list of subscription sources, with one subscription address per line
 
-https://raw.githubusercontent.com/Guovin/iptv-database/master/result.txt
+https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u
 https://raw.githubusercontent.com/iptv-org/iptv/gh-pages/countries/cn.m3u
 https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u
 https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv4.m3u
 https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/others_output.txt
 https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv4.txt
+https://raw.githubusercontent.com/PizazzGY/TV/master/output/user_result.txt
+https://live.zbds.top/tv/iptv4.txt
+https://tv.iill.top/m3u/Gather
+http://xn--wnys25b.xn--qoqw77q.top/
+http://150.158.112.123/live.txt
+https://gitee.com/mytv-android/iptv-api/raw/master/output/result.txt
+http://rihou.cc:555/gggg.nzk
+https://upld.zone.id/uploads/q9iq9e5iq/lvse.txt
+https://pastebin.com/raw/C5AGtaKt
+https://sub.ottiptv.cc/huyayqk.m3u
+http://xo.html-5.me//i/9304793.txt
+https://www.iyouhun.com/tv/iptv.txt
+https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt
+https://gitee.com/mytv-android/iptv-api/raw/master/output/result.m3u
+https://wp.v6x8.com/down.php/ca4160bcb51180f75296ec2ec20b3601.txt
+http://tv.html-5.me/ii/276812.txt
+http://tv.html-5.me/ii/276604.txt
+http://2099.tv12.xyz/list.txt?pwd=907416
+https://bc.188766.xyz/?ip=&mima=mianfeibuhuaqian
+http://tv.html-5.me/ii/593166.txt
+https://raw.githubusercontent.com/cqshushu/tvjk/main/all.txt
+https://raw.githubusercontent.com/wwb521/live/main/tv.m3u
+https://raw.githubusercontent.com/alantang1977/iptv_api/refs/heads/main/output/live_ipv4.txt
+https://raw.githubusercontent.com/0610840119/iptv-api/refs/heads/master/output/xp_result.txt
+https://raw.githubusercontent.com/8080713/iptv-api666/refs/heads/main/output/result.txt
+https://raw.githubusercontent.com/czerov/iptv-api/refs/heads/master/output/user_result.txt
