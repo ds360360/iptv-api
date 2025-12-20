@@ -109,6 +109,8 @@ http://api.kkitv.itv888.vip:8080/streams/vny1wblsnch/index.m3u8
 http://r.jdshipin.com/cCCzW
 #EXTINF:-1 tvg-name="河南移动戏曲" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/河南移动戏曲.png" group-title="国军随缘更新",河南移动戏曲
 https://migu.188766.xyz/?migutoken=cb66a2101b12ba4cfb603a3f751a1feb&id=%E7%A7%BB%E5%8A%A8%E6%88%8F%E6%9B%B2%E9%A2%91%E9%81%93&type=yy
+#EXTINF:-1 tvg-name="鹿邑新闻" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/鹿邑新闻.png" group-title="国军随缘更新",鹿邑新闻
+http://tvpull.dxhmt.cn:9081/tv/11628-1.m3u8
 #EXTINF:-1 tvg-name="河南新闻" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/河南新闻.png" group-title="国军随缘更新",河南新闻
 https://migu.188766.xyz/?migutoken=6022042efda8bfdcaefad20c18e6f0bb&id=%E6%96%B0%E9%97%BB%E9%A2%91%E9%81%93&type=yy
 #EXTINF:-1 tvg-name="河南乡村" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/河南乡村.png" group-title="国军随缘更新",河南乡村
@@ -131,5 +133,5 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225742/index.m3u8
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225685/index.m3u8
 #EXTINF:-1 tvg-name="刘德华" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/刘德华.png" group-title="国军随缘更新",刘德华
 https://stream1.freetv.fun/liu-de-hua-2.ctv
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2025-12-20 06:23:01
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2025-12-20 18:23:39
 http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8

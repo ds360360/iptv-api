@@ -54,6 +54,7 @@ CCTV-17,https://migu.188766.xyz/?migutoken=fa7ddf6d0dc824511c5b481c2b4c9b8c&id=C
 凤凰卫视,http://api.kkitv.itv888.vip:8080/streams/vny1wblsnch/index.m3u8
 凤凰中文,http://r.jdshipin.com/cCCzW
 河南移动戏曲,https://migu.188766.xyz/?migutoken=cb66a2101b12ba4cfb603a3f751a1feb&id=%E7%A7%BB%E5%8A%A8%E6%88%8F%E6%9B%B2%E9%A2%91%E9%81%93&type=yy
+鹿邑新闻,http://tvpull.dxhmt.cn:9081/tv/11628-1.m3u8
 河南新闻,https://migu.188766.xyz/?migutoken=6022042efda8bfdcaefad20c18e6f0bb&id=%E6%96%B0%E9%97%BB%E9%A2%91%E9%81%93&type=yy
 河南乡村,http://tvcdn.stream3.hndt.com/tv/65b8302b017e100019dc540f00000000_transios/playlist.m3u8?wsSecret=54fb865751b2c20e2e68f3a0de006b35&wsTime=1765771228
 河南法治,https://migu.188766.xyz/?migutoken=6b72f0034238dd3af5a8fad265fb830d&id=%E6%B3%95%E6%B2%BB%E9%A2%91%E9%81%93&type=yy
@@ -67,4 +68,4 @@ CCTV-17,https://migu.188766.xyz/?migutoken=fa7ddf6d0dc824511c5b481c2b4c9b8c&id=C
 刘德华,https://stream1.freetv.fun/liu-de-hua-2.ctv
 
 🕘️更新时间,#genre#
-2025-12-20 06:23:01,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
+2025-12-20 18:23:39,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
