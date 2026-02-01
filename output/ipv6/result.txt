@@ -69,4 +69,4 @@ CCTV-17,https://migu.188766.xyz/?migutoken=fa7ddf6d0dc824511c5b481c2b4c9b8c&id=C
 刘德华,https://stream1.freetv.fun/liu-de-hua-2.ctv
 
 🕘️更新时间,#genre#
-2026-02-01 18:52:59,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
+2026-02-02 06:38:06,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
