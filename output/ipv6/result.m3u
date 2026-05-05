@@ -133,11 +133,13 @@ https://iptv.catvod.com/live.php?id=NewTV%E8%B6%85%E7%BA%A7%E7%94%B5%E5%BD%B1
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225742/index.m3u8
 #EXTINF:-1 tvg-name="潮妈辣婆" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/潮妈辣婆.png" group-title="国军随缘更新",潮妈辣婆
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225685/index.m3u8
+#EXTINF:-1 tvg-name="王晶" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/王晶.png" group-title="国军随缘更新",王晶
+https://live.metshop.top/huya/11602058
 #EXTINF:-1 tvg-name="刘德华" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/刘德华.png" group-title="国军随缘更新",刘德华
 https://stream1.freetv.fun/liu-de-hua-2.ctv
 #EXTINF:-1 tvg-name="周润发" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/周润发.png" group-title="国军随缘更新",周润发
 http://live.chinacert.cftest5.cn/huya/11342387
 #EXTINF:-1 tvg-name="庆余年" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/庆余年.png" group-title="国军随缘更新",庆余年
 https://live.metshop.top/huya/11352960
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2026-05-05 07:11:25
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2026-05-05 19:35:38
 http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8

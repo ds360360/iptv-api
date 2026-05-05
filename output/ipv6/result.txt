@@ -66,9 +66,10 @@ CCTV-17,https://migu.188766.xyz/?migutoken=fa7ddf6d0dc824511c5b481c2b4c9b8c&id=C
 超级电影,https://iptv.catvod.com/live.php?id=NewTV%E8%B6%85%E7%BA%A7%E7%94%B5%E5%BD%B1
 欢乐剧场,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225742/index.m3u8
 潮妈辣婆,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225685/index.m3u8
+王晶,https://live.metshop.top/huya/11602058
 刘德华,https://stream1.freetv.fun/liu-de-hua-2.ctv
 周润发,http://live.chinacert.cftest5.cn/huya/11342387
 庆余年,https://live.metshop.top/huya/11352960
 
 🕘️更新时间,#genre#
-2026-05-05 07:11:25,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
+2026-05-05 19:35:38,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
