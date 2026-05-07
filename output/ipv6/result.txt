@@ -72,4 +72,4 @@ CCTV-17,https://migu.188766.xyz/?migutoken=fa7ddf6d0dc824511c5b481c2b4c9b8c&id=C
 庆余年,https://live.metshop.top/huya/11352960
 
 🕘️更新时间,#genre#
-2026-05-07 19:51:42,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
+2026-05-08 07:08:52,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
