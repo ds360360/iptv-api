@@ -40,3 +40,8 @@ https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u
 https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv4.m3u
 https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/others_output.txt
 https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv4.txt
+http://wangziduoqing.com/yuan/zb.txt
+https://raw.githubusercontent.com/q1017673817/iptvz/refs/heads/main/zubo_all.txt
+https://wp.v6x8.com/down.php/3be8c08300cd085ccb6326a465926e8a.txt
+http://www.xzitv.top/tvy/iTV.txt
+https://raw.githubusercontent.com/q309972108/tv/refs/heads/master/tv/zb.json
