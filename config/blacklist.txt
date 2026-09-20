@@ -2,3 +2,4 @@
 # This is the interface blacklist list, the interface matching the keyword will be blocked, one keyword line
 /audio/
 110.42.52.180
+39.77.161.85
