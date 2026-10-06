@@ -50,3 +50,6 @@ https://0701.tv1288.xyz/txt
 https://seep.eu.org/https://live.445569.xyz/live.m3u
 http://27.18.216.122:55555
 http://124.77.202.8:49155
+https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u
+http://193.123.86.190:14888/TV/iptv.php
+https://bh.bhkj.de5.net/cs.php
